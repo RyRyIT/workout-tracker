@@ -2,18 +2,18 @@
   "name": "fitness-tracker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
+  "main": "server.js",
+  "scripts": { "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyRyIT/Fitness-Tracker.git"
+    "url": "git+https://github.com/RyRyIT/workout-tracker.git"
   },
-  "author": "",
+  "author": "Ryan Lackey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RyRyIT/Fitness-Tracker/issues"
+    "url": "https://github.com/RyRyIT/workout-tracker"
   },
   "homepage": "https://github.com/RyRyIT/Fitness-Tracker#readme",
   "dependencies": {
